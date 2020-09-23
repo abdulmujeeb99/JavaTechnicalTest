@@ -19,6 +19,6 @@ This application contain Search Rest API that can search mobile handset from dat
 For build the project run below command in project directory
 - mvn clean install
 
-For Start Spring Boot Server Goto tager folder inside Project directory run below command
+For Start Spring Boot Server Goto target folder inside Project directory run below command
 - java -jar mobile-search-api-1.0.jar
 
