@@ -20,5 +20,5 @@ For build the project run below command in project directory
 - mvn clean install
 
 For Start Spring Boot Server Goto target folder inside Project directory run below command
-- java -jar mobile-search-api-1.0.jar
+- java -jar axiom-0.0.1-SNAPSHOT.jar
 
